@@ -1,0 +1,12 @@
+fileignoreconfig:
+- filename: src/main/resources/db/migration/V2_0__createTableTodos.sql
+  checksum: d42ded03147b85384d51f1bcae43563b3254f75e3263ba0299bbb7f9fa3ebede
+- filename: src/main/resources/db/migration/V3_0__insertData.sql
+  checksum: e19bfb216c9bfd404e85383c8a036b7f0c813e7434ad1daaa93819e43334715b
+- filename: src/main/resources/db/migration/V3_1__insertMoreData.sql
+  checksum: 72a93e865785b176b486f6ba1375b55d9e642731538344a415e5483c307ba776
+- filename: src/main/resources/application.properties
+  checksum: 1c18c7e4138313044709c80dff4b9ac38f2b925934125f7e2261ecca7529c76d
+- filename: build.gradle
+  checksum: 119a419f2e8e72f6832ad7c88f231a2d3a53c9a149aab7e96b20c56938173723
+version: ""
